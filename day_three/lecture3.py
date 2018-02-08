@@ -26,3 +26,4 @@ with open("test.txt", "r") as textfile:
 with open("test2.txt", "w") as writefile:
 	writefile.write("Will be written to a file\n")
 	writefile.write("JUST LIKE THIS")
+	
