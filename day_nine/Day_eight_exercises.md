@@ -1,18 +1,5 @@
 Exercise 1:
 
-Convert the creditcard validator to the MVC format and add a menu. The menu should contain the following options.
-
-	1. Enter a creditcard (Take in a creditcard number)
-
-	2. Process a creditcard (Check the type and if it is valid)
-
-	3. Show Creditcard information
-
-	4. Exit
-
-
-Exercise 2:
-
 Create a shopping list program that uses the MVC. This program should track a user's shopping list. Theey should be able to add items to the list and check them off as they "shop".
 
 This program should have a menu that has the following options:
