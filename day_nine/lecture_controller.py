@@ -43,4 +43,4 @@ while running == True:
 	elif user_input == "4":
 		running = False
 	else:
-		my_model.printOutput("Invalid menu item. Try again")
+		my_view.printOutput("Invalid menu item. Try again")
